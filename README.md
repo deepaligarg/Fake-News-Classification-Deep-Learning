@@ -5,4 +5,4 @@ A considerable amount of labeled news headlines and content are taken and a Deep
 Text pre-processing is done using **NLTK** library. The words are converted into vectors using **Word Embeddings**.
 The model is built using **LSTM** and **Bi-directional LSTM** with **Dropout Layers**.
 
-It was found that LSTM out-performed Bi-diectional LSTm for this use-case.
+It was found that LSTM out-performed Bi-diectional LSTM for this use-case.
